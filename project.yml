@@ -7,10 +7,6 @@ long_description: |
   A longer description of the project around 3 - 4 lines. Written in markdown.
   Should mention and link to prerequisite courses.
 time_needed: "45 minutes" # "30/45/60 minutes".
-instructors: # DataCamp connected email of the creator of the Project
-  - rasmus@datacamp.com
-collaborators: # DataCamp connected email of people that helped with the Project
-  - rasmus@datacamp.com
 
 #### Metadata regarding course requirements and topics ####
 #### This will be updated by your DataCamp contact     ####
